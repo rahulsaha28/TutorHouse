@@ -1,0 +1,46 @@
+.section-service{
+    
+    padding: 2rem;
+    background-color: #FBF8FE;
+}
+
+.tutor-cart{
+    box-shadow: .2rem .3rem .3rem .2rem #e5e3f3;
+    border-radius: 1rem;
+    transition: .2s ease-in-out;
+   
+}
+
+.rs-panel-body{
+    padding: 1px !important;
+}
+
+.rs-panel-heading{
+    font-weight: 700;
+    font-size: 1.4rem!important;
+    color: royalblue !important;
+}
+
+/* .tutor-cart:hover{
+    box-shadow: none;
+    transform: scaleY(.8);
+} */
+.tutor-img{
+    transition: .5s ease-in-out;
+}
+
+.tutor-img:hover{
+    transform: scale(1.12);
+    
+    box-shadow: .2rem .2rem .2rem rgb(187, 187, 187);
+
+}
+
+@media (max-width:700px) {
+
+    .edit-flex-sm-column{
+        flex-direction: column;
+    }
+    
+}
+

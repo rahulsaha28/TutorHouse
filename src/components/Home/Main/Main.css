@@ -1,0 +1,41 @@
+.navbar-main-section{
+    /* background-image: url('../../../image/background.jpg'); */
+    background-image: linear-gradient(30deg, #F0EBFE, #d4d8fa);
+   width: 100%;
+}
+
+.brand-title{
+    color:#29323C;
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.text-2{
+    color:#55647B;
+    padding: .3rem;
+}
+
+.main-section{
+    height:550px;
+}
+
+.medium-img{
+    width:25rem;
+    height:20rem;
+}
+
+@media (max-width:700px) {
+
+    .main-left-section{
+        padding: 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+       
+    }
+
+    .main-section{
+        height:650px;
+    }
+    
+}

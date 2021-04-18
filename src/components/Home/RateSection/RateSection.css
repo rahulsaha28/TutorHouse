@@ -1,0 +1,13 @@
+.rating-cart{
+    border: 1px solid rgb(165, 163, 163);
+    background-color:#fff;
+}
+
+.img-rate{
+    border-radius: 50%;
+}
+
+.rate-section{
+    background-color: #FBF8FE;
+    padding: 10px;
+}

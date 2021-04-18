@@ -1,0 +1,6 @@
+.add-cart{
+    padding: 2rem;
+    border: .01rem solid rgb(185, 185, 185);
+    border-radius: .7rem;
+    box-shadow: .7rem .7rem .7rem grey;
+}

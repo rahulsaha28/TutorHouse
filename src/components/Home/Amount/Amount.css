@@ -1,0 +1,15 @@
+.amount-section{
+    /* background-color: #EFC414; */
+    transition: 5s;
+}
+
+.text-4{
+    color: #444444;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.counter h5{
+    color:#000;
+    font-size: 2rem;
+}
